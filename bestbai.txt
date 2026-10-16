@@ -1,2 +1,2 @@
-T频道,#genre#
-东森,http://31.43.191.125:8080/restream/restream/34905
+T,#genre#
+东森,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
